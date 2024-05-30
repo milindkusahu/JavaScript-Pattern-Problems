@@ -1,9 +1,7 @@
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
-  <h1>JavaScript Questions</h1>
+  <h1>JavaScript Pattern Questions</h1>
 </div>
-
-# JavaScript Pattern Questions
 
 These are the must-do pattern questions before starting DSA (Data Structures and Algorithms). Solving these pattern questions will help you develop problem-solving skills and prepare you for more advanced algorithmic problems.
 
